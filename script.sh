@@ -7,3 +7,4 @@ for i in {1..100}; do
     fi
 done
 #End of the Script...!!!
+# script created by Sai Kiran
